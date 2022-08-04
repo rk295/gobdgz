@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/javadmohebbi/gobdgz"
+	"github.com/rk295/gobdgz"
 )
 
 func main() {

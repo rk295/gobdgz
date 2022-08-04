@@ -1,3 +1,3 @@
-module github.com/javadmohebbi/gobdgz
+module github.com/rk295/gobdgz
 
 go 1.15
